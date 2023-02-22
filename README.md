@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/aclifford81/PRAutopilotEnroll">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://images.squarespace-cdn.com/content/v1/60465802da33df62b0724eb8/1615223500282-IV1KVDK5BSGOASP2PO1V/CT.png?format=1500w" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Autopilot Autoenrollment Proactive Remiediation</h3>
@@ -57,12 +57,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
@@ -73,18 +67,6 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `aclifford81`, `PRAutopilotEnroll`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
