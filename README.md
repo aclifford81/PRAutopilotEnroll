@@ -118,21 +118,6 @@ We must create an appication registration in order for the Poractice remediation
 </ul>
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/aclifford81/PRAutopilotEnroll.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -150,7 +135,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Adam Clifford - [linkedin-shield][linkedin-url]- adam@cliffords.net
 
 Project Link: [https://github.com/aclifford81/PRAutopilotEnroll](https://github.com/aclifford81/PRAutopilotEnroll)
 
@@ -171,7 +156,7 @@ Project Link: [https://github.com/aclifford81/PRAutopilotEnroll](https://github.
 [license-shield]: https://img.shields.io/github/license/aclifford81/PRAutopilotEnroll.svg?style=for-the-badge
 [license-url]: https://github.com/aclifford81/PRAutopilotEnroll/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/adam-clifford-8b7880a0/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
