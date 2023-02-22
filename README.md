@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/aclifford81/PRAutopilotEnroll">
-    <img src="https://images.squarespace-cdn.com/content/v1/60465802da33df62b0724eb8/1615223500282-IV1KVDK5BSGOASP2PO1V/CT.png?format=1500w" alt="Logo" width="80" height="80">
+    <img src="https://images.squarespace-cdn.com/content/v1/60465802da33df62b0724eb8/1615223500282-IV1KVDK5BSGOASP2PO1V/CT.png" alt="Logo">
   </a>
 
 <h3 align="center">Autopilot Autoenrollment Proactive Remiediation</h3>
 
   <p align="center">
-    This is a proactive remediation that checks the serial number of a device enrolled in Intune to see if it's been onboarded into Autopilot.  If it has not, it generates the hardware hash and collects the other relevant data to automatically upload to the Autopilot servers. <br> We use an app registration to add the hardware information to Autopilot automatically so that no administrator credentials are needed.
+    This is a proactive remediation that checks the serial number of a device enrolled in Intune to see if it's been onboarded into Autopilot.  If it has not, it generates the hardware hash and collects the other relevant data to automatically upload to the Autopilot servers. We use an app registration to add the hardware information to Autopilot automatically so that no administrator credentials are needed.
     <br />
     <a href="https://github.com/aclifford81/PRAutopilotEnroll"><strong>Explore the docs »</strong></a>
     <br />
