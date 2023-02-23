@@ -76,7 +76,7 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-<img src="/doc/AppRegistration.png" alt="Logo">
+<img src="/doc/AppRegistration.png" alt="Application Registration">
 We must create an appication registration in order for the Poractice remediation to upload Autopilot data.
 <ul>
 <li>Start at https://portal.azure.com</li>
@@ -99,7 +99,7 @@ We must create an appication registration in order for the Poractice remediation
 </li> Update both scripts with the Application ID, Secret, and Tenant ID from the application registration</li>
 </ul>
 ### Installation
-
+<img src="/doc/IntunePR.png" alt="Intune Settings">
 
 
 
