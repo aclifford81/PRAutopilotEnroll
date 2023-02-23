@@ -76,7 +76,7 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+<img src="/doc/AppRegistration.png" alt="Logo">
 We must create an appication registration in order for the Poractice remediation to upload Autopilot data.
 <ul>
 <li>Start at https://portal.azure.com</li>
