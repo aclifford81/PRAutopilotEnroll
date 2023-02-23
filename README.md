@@ -98,6 +98,8 @@ We must create an appication registration in order for the Poractice remediation
 </li>Take not of the <b>value</b> of the secret.  Ignore the Secret ID.  Once we leave this page we can no longer view the secret value.</li>
 </li> Update both scripts with the Application ID, Secret, and Tenant ID from the application registration</li>
 </ul>
+
+<a name="Installation"></a>
 ### Installation
 <img src="/doc/IntunePR.png" alt="Intune Settings">
 
@@ -107,8 +109,6 @@ We must create an appication registration in order for the Poractice remediation
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
