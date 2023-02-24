@@ -74,7 +74,7 @@
 
 ### Prerequisites
 <img src="/doc/AppRegistration.png" alt="Application Registration">
-We must create an appication registration in order for the Proactice remediation to upload Autopilot data.
+We must create an application registration in order for the Proactice remediation to upload Autopilot data.
 <ul>
 <li>Start at https://portal.azure.com</li>
 <li>Open Azure Active Directory</li>
