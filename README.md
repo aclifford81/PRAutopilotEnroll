@@ -63,7 +63,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -72,12 +71,10 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 <img src="/doc/AppRegistration.png" alt="Application Registration">
-We must create an appication registration in order for the Poractice remediation to upload Autopilot data.
+We must create an appication registration in order for the Proactice remediation to upload Autopilot data.
 <ul>
 <li>Start at https://portal.azure.com</li>
 <li>Open Azure Active Directory</li>
@@ -103,14 +100,6 @@ We must create an appication registration in order for the Poractice remediation
 ### Installation
 <img src="/doc/IntunePR.png" alt="Intune Settings">
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
