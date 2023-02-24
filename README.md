@@ -106,7 +106,7 @@ We must create an appication registration in order for the Proactice remediation
 <!-- CONTACT -->
 ## Contact
 
-Adam Clifford - [linkedin-shield][linkedin-url]- adam@cliffords.net
+Adam Clifford - adam@cliffords.net
 
 Project Link: [https://github.com/aclifford81/PRAutopilotEnroll](https://github.com/aclifford81/PRAutopilotEnroll)
 
