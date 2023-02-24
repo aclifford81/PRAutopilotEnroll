@@ -20,12 +20,27 @@ $header = @{
          'Content-type'  = "application/json"
 }
 
-$Devices = (Invoke-RestMethod -Uri $query -Headers $header -ContentType application/json).Value
+
+$Results = @()
+$Results = Invoke-RestMethod -Uri $query -Headers $header -ContentType application/json
+$Devices = $Results.Value
+$Pages = $Results.'@odata.nextLink'
+while($null -ne $Pages) {
+$Addtional = Invoke-RestMethod -Headers $header -Uri $Pages -Method Get
+
+if ($Pages){
+$Pages = $Addtional."@odata.nextLink"
+}
+$Devices += $Addtional.value
+}
+
+
+
 $serial =  (Get-WmiObject -Class "Win32_BIOS" -Verbose:$false).SerialNumber
 
 
 
-If ($devices.serialNumber -contains $serial)
+If ($devices.serialNumber -contains $serial -and $serial -notlike "*O.E.M*")
 {
 #Write-Host "Device is already enrolled"
 Exit 0
